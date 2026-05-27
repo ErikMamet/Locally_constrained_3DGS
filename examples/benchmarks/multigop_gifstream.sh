@@ -1,7 +1,7 @@
 # Set the directory containing the scenes
 SCENE_DIR="./Neur3d"
 # Set the directory to store results
-RESULT_DIR="SfM_init+offset_lambda=0"
+RESULT_DIR="test2"
 # Set the rendering trajectory path
 RENDER_TRAJ_PATH="ellipse"
 # List of scenes to process
